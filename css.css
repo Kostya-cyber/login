@@ -1,3 +1,6 @@
+*{
+	box-sizing: border-box;
+}
 body{
 	background: url(icon/fon.jpg)no-repeat;
 	background-size: 100%;
@@ -9,7 +12,7 @@ body{
 	width: 337px;
 	margin:170px auto 0;
 }
-.key{
+.header{
 	background-color: #03a9f4;
 	color:#fff;
 	height: 55px;
