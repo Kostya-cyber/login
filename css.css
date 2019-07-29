@@ -20,7 +20,7 @@ body{
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
 }
-.tile{
+.header__auto{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 500;
 	font-size:24px;
@@ -37,11 +37,11 @@ body{
 	border-bottom-right-radius: 10px;
 	border-bottom-left-radius: 10px;
 }
-.govno{
+.input{
 	height: 240px;
 	width: 337px;
 }
-.ghj{
+.buton__reg{
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	font-weight: 500;
@@ -51,7 +51,7 @@ body{
 	text-decoration: none;
 	margin: 14px 14px 20px 64px;
 }
-.dfg{
+.buton__forgot{
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
@@ -60,7 +60,7 @@ body{
 	text-decoration: none;
 	margin: 14px 0px 20px 164px;
 }
-.ihj{
+.header__img{
 	position: relative;
 	margin: 13px 0px 0px 60px;
 }
@@ -82,15 +82,15 @@ body{
 	background-color: #dd9484;
 }
 
-.log{
+.login{
 	margin: 30px 31px;
 }
 
-.pass{
+.password{
 	margin: 30px 31px;
 }
 
-.vvod-log{
+.login__input{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 500;
 	font-size: 16px;
@@ -102,7 +102,7 @@ body{
 	background-position: right;
 }
 
-.vvod-pass{
+.password__input{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 500;
 	font-size:16px;
