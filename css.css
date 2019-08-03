@@ -41,7 +41,7 @@ body{
 	height: 240px;
 	width: 337px;
 }
-.buton__reg{
+.button__reg{
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	font-weight: 500;
@@ -51,7 +51,7 @@ body{
 	text-decoration: none;
 	margin: 14px 14px 20px 64px;
 }
-.buton__forgot{
+.button__forgot{
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
